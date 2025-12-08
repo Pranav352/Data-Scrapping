@@ -6,6 +6,19 @@
   A simple and efficient web scraping tool built to extract structured data from websites.
   
   This project demonstrates how to fetch, parse, and store web data using Python and industry-standard scraping libraries.
+# The project focuses on:
+
+  📌 Product title
+
+  💰 Price
+
+  ⭐ Ratings & total reviews
+  
+  🖼️ Product images
+
+  📦 Availability
+
+  📝 Technical details
 
 #  📌 Features
 
