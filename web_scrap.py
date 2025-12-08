@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 # import requests
 import csv
 
-html_path = '/Users/pranavpatel/Desktop/Data Scrap/apple store/apple_store.html'
+html_path = '/Users/Desktop/Data Scrap/apple store/apple_store.html'
 
 with open(html_path, 'r') as html_file:
     html_content = html_file.read()
